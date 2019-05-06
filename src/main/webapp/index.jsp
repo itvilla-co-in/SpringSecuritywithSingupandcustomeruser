@@ -1,0 +1,1 @@
+<% response.sendRedirect("FA/mainpage"); %>
